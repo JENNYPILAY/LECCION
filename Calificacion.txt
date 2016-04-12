@@ -1,0 +1,15 @@
+Detalle Calificacion
+Requisitos Funcionales (5 Puntos): 1.5 Puntos. Al menos intentaron usar arreglo de objetos.
+Errores Manejados o no tiene en consola (2 Puntos): 0.75 Puntos. Si validaron algunas cosas pero no corregieron los errores basicos de consola. Imperdonable.
+Buen Uso de Funciones, Ciclos y DRY (2 Puntos): 0.75 Puntos. Intentaron usar funciones para algunas cosas.
+Comentarios (1 Punto): 0. Ningun comentario ni para ayudar a entender el programa.
+Subio bien a github (1 Punto bonus): 1 Punto.
+Total: 4 Puntos
+
+Comentarios Profesor:
+Tienen 2 ciclos while de preguntas, porque.
+Error en la linea 2, vamos, como esperan que ejecute.
+No declararon las variables al comienzo y luego las quieren usar, muy mal.
+Al menos intentaron usar la estructura de arreglo de objetos a diferencia de otros estudiantes.
+
+https://github.com/JENNYPILAY/LECCION
